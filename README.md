@@ -1,5 +1,5 @@
 # SDK_Android
-SDKs necessários para fazer a integração com as soluções de Anti Fraude e autenticação 3DS 2.0 do Gateway eCommerce da Adiq
+SDKs necessários para fazer a integração com as soluções de autenticação 3DS 2.0 do Gateway eCommerce da Adiq
 Mais instruções estão disponíveis no nosso [Portal de Desenvolvedores](https://developers.adiq.io/manual/threeds#-implementao-sdk-android-)
 
 **Produção**: adiq-3ds-package-1.0.0.aar.zip
